@@ -1,4 +1,7 @@
-# App
+# My TODO List
+A simple application I created in order to get familiar with the basic concepts of Angular.
+
+![Screenshot (326)](https://user-images.githubusercontent.com/68691231/115240739-aea41d00-a13d-11eb-9834-3803bc0339a4.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
 
